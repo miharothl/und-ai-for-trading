@@ -12,5 +12,11 @@ conda activate und-ai-traiding-lab
 - install project requirements:
 ```shell
 cd ~/scm/r/university/udacity/und-ai-for-traiding/lab
-pip install -r requirements-dev.txt
+pip install -r requirements.txt
 ```
+
+- start jupyter lab
+```shell
+jupyter lab
+```
+
