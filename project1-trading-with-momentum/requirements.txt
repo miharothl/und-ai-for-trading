@@ -1,5 +1,5 @@
 colour==0.1.5
-cvxpy==1.0.3
+#cvxpy==1.0.3
 cycler==0.10.0
 numpy==1.13.3
 pandas==0.21.1
